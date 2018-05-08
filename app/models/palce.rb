@@ -1,2 +1,0 @@
-class Palce < ApplicationRecord
-end
